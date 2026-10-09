@@ -7,7 +7,7 @@ Hi, I'm Yash zade, an aspiring data analyst. This repository contains my portfol
 ### 1. Sales Performance Dashboard
 Analysis of 9,994 retail orders (2014-2017) to find which regions underperform and which products drive sales.
 
-![Dashboard](project1-sales-dashboard/images/dashboard.png)
+![Dashboard](Project1-sales-dashboard/Images/dashboard.png)
 
 [Open the full project](project1-sales-dashboard)
 
