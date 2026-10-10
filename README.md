@@ -9,7 +9,7 @@ Analysis of 9,994 retail orders (2014-2017) to find which regions underperform a
 
 ![Dashboard](Project1-sales-dashboard/Images/dashboard.png)
 
-[Open the full project](project1-sales-dashboard)
+[Open the full project](Project1-sales-dashboard)
 
 ### 2. Customer Churn Analysis
 
