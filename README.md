@@ -15,9 +15,9 @@ Analysis of 9,994 retail orders (2014-2017) to find which regions underperform a
 
 Analysis of 7,032 telecom customers to find who leaves and why. 26.58% churned overall, rising to 42.71% on month-to-month contracts. Includes SQL analysis, a Python prediction model (79% recall, ROC-AUC 0.835) and a Power BI dashboard.
 
-![Dashboard]("C:\Users\yashz\OneDrive\Documents\data-analyst-portfolio\Project2-churn-analysis\Images\dashboard.png")
+[![Dashboard](Project2-churn-analysis/Images/dashboard.png)](Project2-churn-analysis/Images/dashboard.png)
 
-[Open the full project](project2-churn-analysis)
+[Open the full project](Project2-churn-analysis)
 
 ### 3. E-commerce Funnel Analysis
 Coming soon.
