@@ -12,7 +12,7 @@ Analysis of 9,994 retail orders (2014-2017) to find which regions underperform a
 [Open the full project](project1-sales-dashboard)
 
 ### 2. Customer Churn Analysis
-Coming soon.
+.
 
 ### 3. E-commerce Funnel Analysis
 Coming soon.
