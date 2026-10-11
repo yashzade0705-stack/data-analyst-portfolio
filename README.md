@@ -1,19 +1,20 @@
 # Data Analyst Portfolio
 
-Hi, I'm Yash zade, an aspiring data analyst. This repository contains my portfolio projects built with SQL, Excel, Python and Power BI.
+Hi, I'm Yash Zade, an aspiring data analyst. This repository holds my portfolio projects built with SQL, Excel, Python and Power BI.
 
 ## Projects
 
 ### 1. Sales Performance Dashboard
+
 Analysis of 9,994 retail orders (2014-2017) to find which regions underperform and which products drive sales.
 
-![Dashboard](Project1-sales-dashboard/Images/dashboard.png)
+[![Dashboard](Project1-sales-dashboard/Images/dashboard.png)](Project1-sales-dashboard/Images/dashboard.png)
 
 [Open the full project](Project1-sales-dashboard)
 
 ### 2. Customer Churn Analysis
 
-Analysis of 7,032 telecom customers to find who leaves and why. 26.58% churned overall, rising to 42.71% on month-to-month contracts. Includes SQL analysis, a Python prediction model (79% recall, ROC-AUC 0.835) and a Power BI dashboard.
+Analysis of 7,032 telecom customers: 26.58% churn, driven mainly by month-to-month contracts and short tenure. Includes a Python prediction model (recall 79%, ROC-AUC 0.835) and a Power BI dashboard.
 
 [![Dashboard](Project2-churn-analysis/images/dashboard.png)](Project2-churn-analysis/images/dashboard.png)
 
@@ -21,8 +22,13 @@ Analysis of 7,032 telecom customers to find who leaves and why. 26.58% churned o
 
 ### 3. E-commerce Funnel Analysis
 
-Analysis of 1.4 million visitors to find where shoppers drop off between viewing, adding to cart and buying. Only 0.73% of viewers purchase, and the biggest loss is at the view-to-cart step. Includes SQL analysis, a Python script and a Power BI dashboard.
+Funnel analysis of 1.4M website visitors (viewed, added to cart, bought): overall conversion is 0.73%, with the biggest drop at the view-to-cart step. Built with SQL and Power BI.
 
 [![Dashboard](Project3-E-commerce-funnel-analysis/images/dashboard.png)](Project3-E-commerce-funnel-analysis/images/dashboard.png)
 
 [Open the full project](Project3-E-commerce-funnel-analysis)
+
+## About Me
+
+- Tools: SQL, Python, Excel, Power BI
+- GitHub: yashzade0705-stack
