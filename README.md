@@ -20,4 +20,9 @@ Analysis of 7,032 telecom customers to find who leaves and why. 26.58% churned o
 [Open the full project](Project2-churn-analysis)
 
 ### 3. E-commerce Funnel Analysis
-Coming soon.
+
+Analysis of 1.4 million visitors to find where shoppers drop off between viewing, adding to cart and buying. Only 0.73% of viewers purchase, and the biggest loss is at the view-to-cart step. Includes SQL analysis, a Python script and a Power BI dashboard.
+
+[![Dashboard](E-commerce-funnel-analysis/images/dashboard.png)](E-commerce-funnel-analysis/images/dashboard.png)
+
+[Open the full project](E-commerce-funnel-analysis)
