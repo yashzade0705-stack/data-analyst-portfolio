@@ -1,0 +1,41 @@
+region,product_name,revenue,profit,product_rank
+Central,"Canon imageCLASS 2200 Advanced Copier",17499.95,8399.98,1
+Central,"Lexmark MX611dhe Monochrome Laser Printer",14279.92,-1189.99,2
+Central,"Ibico EPK-21 Electric Binding System",11339.94,1700.99,3
+Central,"GBC Ibimaster 500 Manual ProClick Binding System",10653.72,3804.90,4
+Central,"GBC DocuBind P400 Electric Binding System",8710.34,-3048.62,5
+Central,"HON 5400 Series Task Chairs for Big and Tall",6939.70,210.29,6
+Central,"Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",6100.75,-1525.19,7
+Central,"Canon PC1060 Personal Laser Copier",4899.93,2302.97,8
+Central,"Mitel MiVoice 5330e IP Phone",4179.85,516.98,9
+Central,"Martin Yale Chadless Opener Electric Letter Opener",4164.05,83.28,10
+East,"Canon imageCLASS 2200 Advanced Copier",30099.91,10079.97,1
+East,"3D Systems Cube Printer, 2nd Generation, Magenta",14299.89,3717.97,2
+East,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",11717.03,-493.35,3
+East,"GBC DocuBind TL300 Electric Binding System",8790.50,2610.24,4
+East,"Hewlett Packard LaserJet 3310 Copier",8639.86,3023.95,5
+East,"HON 5400 Series Task Chairs for Big and Tall",8201.47,-210.29,6
+East,"Apple iPhone 5",7797.96,1156.70,7
+East,"Ativa V4110MDD Micro-Cut Shredder",7699.89,3772.95,8
+East,"DMI Eclipse Executive Suite Bookcases",7214.11,-90.18,9
+East,"HP Designjet T520 Inkjet Large Format Printer - 24" Color",6999.96,2239.99,10
+South,"Cisco TelePresence System EX90 Videoconferencing Unit",22638.48,-1811.08,1
+South,"HP Designjet T520 Inkjet Large Format Printer - 24" Color",11374.94,1854.99,2
+South,"GBC DocuBind TL300 Electric Binding System",8342.01,260.13,3
+South,"Cubify CubeX 3D Printer Triple Head Print",7999.98,-3839.99,4
+South,"Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",7625.94,3812.97,5
+South,"Samsung Galaxy Mega 6.3",7307.83,1091.97,6
+South,"Chromcraft Bull-Nose Wood Oval Conference Tables & Bases",6611.76,-2865.10,7
+South,"Martin Yale Chadless Opener Electric Letter Opener",5829.67,116.59,8
+South,"Tennsco Double-Tier Lockers",5355.48,265.52,9
+South,"Samsung Galaxy S4 Active",3499.93,909.98,10
+West,"Canon imageCLASS 2200 Advanced Copier",13999.96,6719.98,1
+West,"High Speed Automatic Electric Letter Opener",13100.24,524.01,2
+West,"Global Troy Executive Leather Low-Back Tilter",10019.60,626.23,3
+West,"Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",8134.34,3050.38,4
+West,"GuestStacker Chair with Chrome Finish Legs",8030.02,803.00,5
+West,"Okidata MB760 Printer",7834.40,881.37,6
+West,"Bretford Rectangular Conference Table Tops",7710.67,180.54,7
+West,"Logitech P710e Mobile Speakerphone",7467.21,1418.77,8
+West,"Canon PC1060 Personal Laser Copier",6719.90,2267.97,9
+West,"Hewlett Packard LaserJet 3310 Copier",6239.90,2183.96,10
