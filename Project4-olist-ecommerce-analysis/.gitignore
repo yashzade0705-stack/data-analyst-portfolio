@@ -1,0 +1,14 @@
+# Raw data is large and licensed - never commit it
+data/raw/*.csv
+# Secrets
+.env
+*.env
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+# Big generated tables (re-create with scripts/build_dashboard_data.py)
+dashboard_data/fact_order_items.csv
+dashboard_data/customer_segments.csv
+dashboard_data/fact_orders.csv

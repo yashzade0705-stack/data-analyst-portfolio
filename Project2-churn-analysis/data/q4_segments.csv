@@ -1,0 +1,5 @@
+contract,tenure_group,charges_group,customers,churn_rate_pct
+Month-to-month,"1: 0-12 months","3: High (70+)",860,69.19
+Month-to-month,"2: 13-24 months","3: High (70+)",432,49.07
+Month-to-month,"1: 0-12 months","2: Medium (35-70)",627,44.98
+Month-to-month,"3: 25-48 months","3: High (70+)",540,41.85

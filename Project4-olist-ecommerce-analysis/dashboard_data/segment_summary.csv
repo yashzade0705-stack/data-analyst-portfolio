@@ -1,0 +1,5 @@
+segment,customers,revenue,customer_share_pct,revenue_share_pct
+High-value one-time,23220,7882225.21,24.87,59.62
+Lapsed one-time,53955,3688483.56,57.79,27.9
+Recent one-time,13382,922380.59,14.33,6.98
+Repeat customer,2801,728408.75,3.0,5.51
